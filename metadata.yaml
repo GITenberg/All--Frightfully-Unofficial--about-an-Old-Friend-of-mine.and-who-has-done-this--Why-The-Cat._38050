@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39221'
     url: http://www.gutenberg.org/2009/agents/39221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38050#All--Frightfully-Unofficial--about-an-Old-Friend-of-mine.and-who-has-done-this--Why-The-Cat.
 gutenberg_issued: '2011-11-18'
 gutenberg_type: Text
 identifiers:

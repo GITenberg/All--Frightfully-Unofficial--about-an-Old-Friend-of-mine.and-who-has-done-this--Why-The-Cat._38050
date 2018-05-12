@@ -1,0 +1,28 @@
+_repo: All--Frightfully-Unofficial--about-an-Old-Friend-of-mine.and-who-has-done-this--Why-The-Cat._38050
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38050-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Gash, Thomas C.
+    aliases:
+    - Gash, T. (Thomas C.)
+    - Gash, T. C.
+    gutenberg_agent_id: '39221'
+    url: http://www.gutenberg.org/2009/agents/39221
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HG'
+- !lcsh 'Bank employees -- England -- London -- Humor'
+title: "All (Frightfully Unofficial) About an Old Friend of Mine\r\nWhat He Most Probably\
+  \ Was. What He Most Certainly Will Be, and Who Has Done This? Why the Cat."
+url: http://www.gutenberg.org/ebooks/38050
